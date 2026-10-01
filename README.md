@@ -183,3 +183,17 @@ Pizza-Sales-Data-Analysis
     ├── 02_Power_Query_Data_Preparation.png
     ├── 03_Analysis.png
     └── 04_MIS_Report.png
+
+## Conclusion
+
+This project demonstrates an end-to-end Excel-based data analysis workflow, starting from raw relational datasets and progressing through data preparation, analysis, KPI development, interactive dashboard creation, and MIS reporting.
+
+The project demonstrates practical skills relevant to entry-level Data Analyst, MIS Executive, Reporting Analyst, and Business Analyst roles.
+
+## Project Files
+
+- [Excel Project Workbook](Pizza_Sales_Project_PORTFOLIO.xlsx)
+- [Dashboard Screenshot](screenshots/01_Dashboard.png)
+- [Power Query Data Preparation](screenshots/02_Power_Query_Data_Preparation.png)
+- [Analysis Screenshot](screenshots/03_Analysis.png)
+- [MIS Report Screenshot](screenshots/04_MIS_Report.png)
