@@ -194,7 +194,7 @@ The project demonstrates practical skills relevant to entry-level Data Analyst, 
 ## Project Files
 
 - [Excel Project Workbook](Pizza_Sales_Project_PORTFOLIO.xlsx)
-- [Dashboard Screenshot](screenshots/01_Dashboard.png)
+- [Dashboard Screenshot](screenshots/01%20Dashboard.png)
 - [Power Query Data Preparation](screenshots/02_Power_Query_Data_Preparation.png)
 - [Analysis Screenshot](screenshots/03_Analysis.png)
 - [MIS Report Screenshot](screenshots/04_MIS_Report.png)
